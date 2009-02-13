@@ -45,6 +45,8 @@ def time_to_run?
 
   if hour >= 19 && hour <= 21
     return true
+  else
+    return false
   end
 end
 
