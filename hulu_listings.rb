@@ -5,6 +5,12 @@
 #
 #  Created by Craig Williams on 2009-02-04.
 #
+#  I use this file in conjunction with GeekTool
+#  Geektool is set to update every 1800 seconds (30 min)
+#  Even though it is called every 30 min it only executes
+#  the code on Thur, Fri & Sat between 7-9 pm.
+#  
+#
 
 require 'rubygems'
 require 'hpricot'
