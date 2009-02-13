@@ -10,7 +10,7 @@
 #  Even though it is called every 30 min it only executes
 #  the code on Thur, Fri & Sat between 7-9 pm.
 #  
-#
+#  Adding in a conflict line!
 
 require 'rubygems'
 require 'hpricot'
